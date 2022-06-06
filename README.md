@@ -1,2 +1,2 @@
 # Python-Skillsoft-Learning
-# Repository to practice uploading Jupyter notebooks to Github
+# Repository to store Skillsoft Jupyter Notebooks
